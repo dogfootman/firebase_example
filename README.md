@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 - firebase_memo_origin : firebase 연동하여 CRUD까지 되는 버전
-- push_notification : push notification 추가 시작
+- push_notification : push notification 추가 시작 2
